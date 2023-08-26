@@ -1,0 +1,9 @@
+[submodule "themes/hello-friend"]
+	path = themes/hello-friend
+	url = https://github.com/panr/hugo-theme-hello-friend.git
+[submodule "themes/hugo-xmin"]
+	path = themes/hugo-xmin
+	url = https://github.com/yihui/hugo-xmin.git
+[submodule "themes/cleanwhite"]
+	path = themes/cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
